@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#container{
+    text-align: center;
+}
+
+#btn{
+    width: 120px;
+    height: 40px;
+    background-color: indigo;
+    color: white;
+    margin-top: 20px;
+}
+#reload{
+    text-align: center;
+    width: 600px;
+    height: 100px;
+    background-color: purple;
+    color: pink;
+    padding-top: 50px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
